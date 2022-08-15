@@ -27,3 +27,9 @@
 - Swap the starting element (i.e. the pivot) with the pivot index
 
 - Return the pivot index
+
+## BIG O OF QUICK SORT
+
+**Time complexity (Best & Avg) case --> O(n log n)**
+**Time complexity (Worst) case --> O(n2) n square**
+**Space complexity --> O(log n)**
